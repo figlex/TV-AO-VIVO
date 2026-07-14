@@ -1,10 +1,3 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:9
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:49086
-#EXTINF:8.008,
-https://cdn4347.up-cdn.com.br/docs/incenso45/NSb2jJ82QP.ttf
-#EXTINF:8.008,
-https://cdn7203.up-cdn.com.br/docs/incenso45/ceekT1_j7E.xls
-#EXTINF:8.008,
-https://cdn9197.up-cdn.com.br/docs/incenso45/0_XcE4WHpy.otf
+#EXTINF:-1 tvg-id="" tvg-name="Canal de Teste" tvg-logo="" group-title="Testes", Canal de Teste
+https://4dcf435435894a4d0972046fc566af76.cazetv.shop/embedtv/8ae50af8bcf9290e73a1a122c5e445b9/file.txt
